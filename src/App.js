@@ -6,7 +6,7 @@ function Article () {
     <article className="article">
     <h2 className="article__title">Climate change</h2>
     <label htmlFor="content">
-      <input id="content" />
+      <input id="content" type="button" />
       <a className="article__link" href="https://en.wikipedia.org/wiki/Climate_change">
         learn more here...
       </a>
